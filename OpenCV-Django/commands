@@ -1,0 +1,1 @@
+sudo gunicorn -b 0.0.0.0:80 project.wsgi:application --timeout 0

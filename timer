@@ -1,0 +1,1 @@
+watch -n 0.01 "date +"%T.%N""
